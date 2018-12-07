@@ -3,7 +3,7 @@ Validação de CPF
 
 # DEMO
 
-<img src="https://github.com/lucaslima777/SQLite/blob/master/app/gif/gif.gif?raw=true" title="sample" />
+<img src="https://github.com/lucaslima777/CpfAuth/blob/master/app/src/main/example/example.gif?raw=true" title="cpf" />
 
 # Developed By
 

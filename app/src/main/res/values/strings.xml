@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CpfAuth</string>
+    <string name="regular">regular</string>
+    <string name="suspensa">suspensa</string>
+    <string name="pendente_regul">pendente de regularização</string>
+    <string name="cancelada_mult">cancelada por multiplicidade</string>
+    <string name="nula">nula</string>
+    <string name="cancelada_ofic">cancelada de ofício</string>
+    <string name="falecido">titular falecido</string>
+    <string name="invalido">invalido</string>
+
+    <string-array name="linguagens">
+
+        <!--CPF Regular-->
+        <item>40442820135</item>
+        <item>63017285995</item>
+        <item>91708635203</item>
+        <item>58136053391</item>
+
+        <!--Suspensa-->
+        <item>40532176871</item>
+        <item>47123586964</item>
+
+        <!--Pendente de Regularização-->
+        <item>07691852312</item>
+        <item>10975384600</item>
+
+        <!--Cancelada por Multiplicidade-->
+        <item>01648527949</item>
+        <item>47893062592</item>
+
+        <!--Nula-->
+        <item>98302514705</item>
+        <item>18025346790</item>
+
+        <!--Cancelada de Ofício-->
+        <item>64913872591</item>
+        <item>52389071686</item>
+
+        <!--Titular Falecido-->
+        <item>05137518743</item>
+        <item>08849979878</item>
+    </string-array>
+
+
+</resources>
